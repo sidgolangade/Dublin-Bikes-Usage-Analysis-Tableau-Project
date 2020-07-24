@@ -1,2 +1,12 @@
-# Dublin-Bikes-Usage-Analysis-Tableau-Project
+![Tableau](https://img.shields.io/badge/Tableau-2020-9cf) ![DB](https://img.shields.io/badge/Dublin-Bikes-green) ![Status](https://img.shields.io/badge/Status-Completed-success) ![DS](https://img.shields.io/badge/Data-Science-ff69b4) ![DV](https://img.shields.io/badge/Data-Visualization-yellowgreen)
+
+# Dublin Bikes Usage Analysis Tableau Project
+
 This Repository contains the Dublin Bikes Usage Analysis Tableau Visualization Project.
+
+Visit my Tableau Public Profile for more Visualizations:
+[Link](https://public.tableau.com/profile/imsid777#!/)
+
+**Output:**
+
+Dashboard:
